@@ -4,10 +4,10 @@
 
 ## Concevoir une base de données : Modèle Conceptuel de Données et Modèle Logique de Données
 
-**Pour réaliser ces exercices, vous devrez installer :**
+**Pour réaliser ces exercices, vous devrez :**
 
-- La version gratuite de JMerise disponible ici : http://www.jfreesoft.com/JMerise/
-- Suivre cette commande pour le lancer : java -jar JMerise.jar
+- Installer la version gratuite de JMerise disponible ici : http://www.jfreesoft.com/JMerise/
+- Taper cette commande dans le terminal pour le lancer (dans le dossier où se trouve le fichier .jar) : java -jar JMerise.jar
 - Si ça ne marche pas, installer java (https://doc.ubuntu-fr.org/java)
 
 1. [ECOLE PRIMAIRE LA MANU : Gestion des notes d'élèves](https://github.com/La-Manu/Exercices-MCD/tree/master/school "Lien")
