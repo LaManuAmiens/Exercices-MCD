@@ -4,7 +4,13 @@
 
 ## Concevoir une base de données : Modèle Conceptuel de Données et Modèle Logique de Données
 
-1. [ECOLE PRIMAIRE LA MANU : Gestion des notes d'élèves](https://gitlab.ecole-e2n.fr/AnousoneM/dot-net/tree/master/partie-3-web-app/mcd-mld/school "Lien")
-2. [BIBLIOTHEQUE LA MANU: Gestion des livres](https://gitlab.ecole-e2n.fr/AnousoneM/dot-net/tree/master/partie-3-web-app/mcd-mld/library "Lien")
-3. [AGENCE IMMOBILIERE LA MANU : Gestion de biens immobiliers](https://gitlab.ecole-e2n.fr/AnousoneM/dot-net/tree/master/partie-3-web-app/mcd-mld/agency "Lien")
-4. [CABINET MEDICAL LA MANU : Gestion de rendez-vous](https://gitlab.ecole-e2n.fr/AnousoneM/dot-net/tree/master/partie-3-web-app/mcd-mld/medical "Lien")
+**Pour réaliser ces exercices, vous devrez installer :**
+
+- La version gratuite de JMerise disponible ici : http://www.jfreesoft.com/JMerise/
+- Suivre cette commande pour le lancer : java -jar JMerise.jar
+- Si ça ne marche pas, installer java (https://doc.ubuntu-fr.org/java)
+
+1. [ECOLE PRIMAIRE LA MANU : Gestion des notes d'élèves](https://github.com/La-Manu/Exercices-MCD/tree/master/school "Lien")
+2. [BIBLIOTHEQUE LA MANU: Gestion des livres](https://github.com/La-Manu/Exercices-MCD/tree/master/library "Lien")
+3. [AGENCE IMMOBILIERE LA MANU : Gestion de biens immobiliers](https://github.com/La-Manu/Exercices-MCD/tree/master/agency "Lien")
+4. [CABINET MEDICAL LA MANU : Gestion de rendez-vous](https://github.com/La-Manu/Exercices-MCD/tree/master/medical "Lien")
