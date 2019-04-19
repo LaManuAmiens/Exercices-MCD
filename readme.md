@@ -10,6 +10,7 @@
 - Taper cette commande dans le terminal pour le lancer (dans le dossier où se trouve le fichier .jar) : java -jar JMerise.jar
 - Si ça ne marche pas, installer java (https://doc.ubuntu-fr.org/java)
 - Installer phpMyAdmin : https://doc.ubuntu-fr.org/phpmyadmin 
+
 **Bien lire l'avertissement de la section 2 de la documentation et créer un utilisateur grâce à la section 3.3**
 
 1. [ECOLE PRIMAIRE LA MANU : Gestion des notes d'élèves](https://github.com/La-Manu/Exercices-MCD/tree/master/school "Lien")
